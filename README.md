@@ -1,77 +1,90 @@
-###  Personal Portfolio Website
+## HTML & CSS Small Projects Portfolio
 
-This is my **personal portfolio website** built using **HTML and CSS only**.  
-It showcases my skills, projects, and basic information in a clean and responsive layout.
+## Overview
+This repository is a curated collection of small frontend projects built using HTML and CSS.  
+The projects are presented through a single portfolio-style webpage that allows easy navigation and viewing.  
+Each project focuses on practicing core web development concepts such as page structure, layout design, styling, and content presentation.
 
-## Features
+The website is deployed using GitHub Pages and serves as a practical demonstration of foundational frontend development skills.
 
-- Responsive design (works on desktop & mobile)
-- Clean and simple UI
-- Sections for About, Skills, Projects, and Contact
-- Built using only HTML and CSS (no frameworks)
-
-
-##  Technologies Used
-
-- HTML5  
-- CSS3  
-
-
+Live Demo:  
+https://sanjai-kumar368.github.io/Html_css_small-projects/
 
 ---
 
-##  Preview
+## Motivation Behind the Project
+The motivation for creating this repository was to strengthen my understanding of frontend fundamentals by building small, focused projects.  
+Instead of working on one large application, this repository showcases multiple mini projects that individually demonstrate specific concepts and layouts.
 
-You can view the live site here:  
-👉 **[Live Demo](#)** *(Add your GitHub Pages link here)*
-
----
-
-##  What I Learned
-
-- Structuring a website using semantic HTML
-- Styling layouts using CSS
-- Flexbox / Grid basics
-- Making responsive designs
-- Hosting a static website on GitHub Pages
+This approach helped me:
+- Practice HTML and CSS consistently
+- Understand how different layouts are structured
+- Improve visual design sense
+- Learn how to organize multiple projects under a single portfolio
 
 ---
 
-##  Future Improvements
+## What This Repository Contains
+The repository contains a portfolio webpage that links to multiple small HTML and CSS projects.  
+Each project is simple in scope but useful for understanding frontend basics.
 
-- Add JavaScript for interactivity
-- Improve animations and transitions
-- Add a contact form with backend support
-- Dark mode support
+### Included Mini Projects
+
+### Movie Ranking Project
+A static webpage that presents a ranked list of favorite movies.  
+The project focuses on:
+- Text formatting
+- Image placement
+- Section organization
+- Basic visual hierarchy
+
+Technologies used:
+- HTML
+- CSS
 
 ---
 
-##  Contact
+### Birthday Invite Project
+A themed webpage designed as a birthday invitation.  
+This project demonstrates:
+- Creative layout design
+- Use of images and headings
+- Styling content for a specific theme
 
-If you want to connect or give feedback:
-
-- GitHub: https://github.com/your-username  
-- Email: your-email@example.com  
+Technologies used:
+- HTML
+- CSS
 
 ---
 
-##  Acknowledgement
+### About Me Page
+A simple informational page that provides a brief personal introduction.  
+This page focuses on:
+- Content organization
+- Clean text presentation
+- Basic page structure
 
-This project was created as part of my learning journey in web development.
+---
 
-## Additional files:
-There are some additional files in this repository which are some small projects that are created or made by using html,css
-which are added to the portfolio.
+### Contact Me Page
+A basic contact information page.  
+This project helps practice:
+- Linking pages together
+- Simple navigation
+- Structuring contact details clearly
 
-## projects like:
+---
 
-1.Birthday invitation 
+## Technologies Used
+The following technologies were used across all projects in this repository:
 
-A birthday invitation poster with my birthday and date to invite friends and family members.
+- **HTML5**  
+  Used to structure content, define sections, headings, lists, images, and links.
 
-2.Movie Ranking
+- **CSS3**  
+  Used to style the pages, control layout, spacing, fonts, and overall visual appearance.
 
-The list of my favourite movies are made into a website using html and css ,and the movies are ordered based on my liking
+- **GitHub Pages**  
+  Used for hosting and deploying the portfolio as a live website.
 
-
-
+No JavaScript, frameworks, or backend technologies are used in this repository.
